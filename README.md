@@ -6,12 +6,12 @@ Este proyecto simula una solución de Business Intelligence para la empresa fict
 
 ---
 
-## 📁 Fuentes de Datos
+## Fuentes de Datos
 Este proyecto utiliza datos simulados y generados con fines educativos. Todos los datos han sido diseñados exclusivamente para este proyecto de análisis y visualización y no corresponden a información real de personas ni empresas.
 
 ---
 
-## 🧱 Estructura del Proyecto
+## Estructura del Proyecto
 
 🔹 Base de datos modelo relacional `.bak` y archivo de texto `.txt`  
 🔹 Carga ETL automatizada con **IDE Visual Studio** y **SQL Server Integration Services Projects (SSIS)**  
@@ -20,7 +20,7 @@ Este proyecto utiliza datos simulados y generados con fines educativos. Todos lo
 
 ---
 
-## 🗃 Herramientas Utilizadas
+## Herramientas Utilizadas
 
 - SQL Server Management Studio (SSMS)
 - SQL Server Integration Services Projects (SSIS)
@@ -29,7 +29,7 @@ Este proyecto utiliza datos simulados y generados con fines educativos. Todos lo
 
 ---
 
-## 🧠 Preguntas de Negocio
+## Preguntas de Negocio
 
 - ¿Qué productos fueron los más comprados por solteros en Viña del Mar durante 2015?
 - ¿Cómo evolucionaron las ventas por sucursal a lo largo del año?
@@ -59,7 +59,7 @@ El dashboard desarrollado permite obtener insights relevantes para la toma de de
 
 ---
 
-## 🚀 Cómo Usar Este Proyecto
+## Cómo Usar Este Proyecto
 
 1. **Restaurar la base de datos original:**
    - Usar el archivo `.bak` desde `/backup/` en SQL Server Management Studio.
@@ -89,7 +89,7 @@ El archivo Package.dtsx contiene el flujo de trabajo ETL desarrollado en SQL Ser
 - Agrega el archivo Package.dtsx al proyecto.
 - Visualiza el flujo de control y los flujos de datos desde la vista de diseño.
 
-### 🔁 Carga Histórica de Clientes
+### Carga Histórica de Clientes
 Para evitar conflictos y pérdida de información en futuras ejecuciones del proceso ETL, se implementó una carga histórica en la dimensión de clientes. Esto significa que, cuando un registro de cliente cambia (por ejemplo, cambia su comuna o estado civil), el sistema no lo sobrescribe, sino que crea una nueva versión del registro.
 
 ---
