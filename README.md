@@ -59,7 +59,7 @@ El dashboard desarrollado permite obtener insights relevantes para la toma de de
 
 ---
 
-🚀 Cómo Usar Este Proyecto
+## 🚀 Cómo Usar Este Proyecto
 
 1. **Restaurar la base de datos original:**
    - Usar el archivo `.bak` desde `/backup/` en SQL Server Management Studio.
