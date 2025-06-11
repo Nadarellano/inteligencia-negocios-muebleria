@@ -93,3 +93,8 @@ El archivo Package.dtsx contiene el flujo de trabajo ETL desarrollado en SQL Ser
 Para evitar conflictos y pérdida de información en futuras ejecuciones del proceso ETL, se implementó una carga histórica en la dimensión de clientes. Esto significa que, cuando un registro de cliente cambia (por ejemplo, cambia su comuna o estado civil), el sistema no lo sobrescribe, sino que crea una nueva versión del registro.
 
 ---
+
+## Documentos
+- [PDF Resumen del Proyecto](docs/Resumen_Técnico_Inteligencia_de_Negocio.pdf)
+- [PDF Detallado del Proyecto](docs/Informe_Completo_Inteligencia_de_Negocio.pdf)
+- [Ver presentación en LinkedIn](https://www.linkedin.com/posts/activity-7325630377660706816-_4m3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAScY54Bz1v1B1JB3pZedXQTIUvQ5jjX7XU)
