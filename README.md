@@ -97,4 +97,4 @@ Para evitar conflictos y pérdida de información en futuras ejecuciones del pro
 ## Documentos
 - [PDF Resumen del Proyecto](docs/Resumen_Técnico_Inteligencia_de_Negocio.pdf)
 - [PDF Detallado del Proyecto](docs/Informe_Completo_Inteligencia_de_Negocio.pdf)
-- [Ver presentación en LinkedIn](https://www.linkedin.com/posts/activity-7325630377660706816-_4m3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAScY54Bz1v1B1JB3pZedXQTIUvQ5jjX7XU)
+- [Ver presentación en LinkedIn](https://www.linkedin.com/posts/activity-7339125173222010880-Nzin?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAScY54Bz1v1B1JB3pZedXQTIUvQ5jjX7XU)
